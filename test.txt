@@ -1,8 +1,0 @@
-this is our test file to check commit 
-
-
-git init
-git add .
-git commit -m "commit message"
-git branch - to check branch name
-git push origin branchname 
